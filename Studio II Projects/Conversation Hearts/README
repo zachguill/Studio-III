@@ -1,0 +1,4 @@
+In this project we needed to create a program that changed the saying on a conversation heart. For this project, I chose to have the 
+color and the test change randomly based on button clicks from the user. I also allowed the user to input their own saying. To create 
+this program, I used P5JS. Since I have a lot more experience coding now, i would probably create this as its own HTML page rather than
+use P5JS. 
