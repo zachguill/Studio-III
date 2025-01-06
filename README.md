@@ -1,2 +1,2 @@
 # Studio-III
-A colection of my Studio projects
+Welcome to my Studio III GitHub repository. Here I have collected my projects from previous studio classes. 
